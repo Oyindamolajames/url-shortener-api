@@ -5,7 +5,7 @@ import instagram from "../images/icon-instagram.svg"
 import logo from "../images/footer-logo.svg"
 
 
-export default function () {
+export default function Footer() {
   return (
     <>
     <footer className="bg-slate-800 py-10 lg:py-20">
